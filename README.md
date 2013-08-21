@@ -1,4 +1,4 @@
 practice
 ========
 
-Just Practice
+A Helloworld app created by using phonegap
